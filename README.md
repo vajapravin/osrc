@@ -29,7 +29,7 @@ osrc gem is build on faraday gem. It is mandatory to install
 	[{"name"=>"Zsolt Fekete", "username"=>"zsoltf"}, {"name"=>"yyuu", "username"=>"yyuu"}, {"name"=>"xixixao", "username"=>"xixixao"}, {"name"=>"vibinnair", "username"=>"vibinnair"}, {"name"=>"tonchis", "username"=>"tonchis"}]
 
 	osrc.repositories # list of repos
-	[{"count"=>78, "repo"=>"manishkukreja/playgym"}, {"count"=>18, "repo"=>"vajapravin/railsdemoapp"}, {"count"=>9, "repo"=>"vajapravin/7apidocs"}, {"count"=>6, "repo"=>"vajapravin/pushbullet"}, {"count"=>6, "repo"=>"vajapravin/mvaayoo"}]
+	[{"count"=>18, "repo"=>"vajapravin/railsdemoapp"}, {"count"=>9, "repo"=>"vajapravin/7apidocs"}, {"count"=>6, "repo"=>"vajapravin/pushbullet"}, {"count"=>6, "repo"=>"vajapravin/mvaayoo"}]
 
 	osrc.similar_users # list of similar users
 	[{"name"=>"iacutone", "username"=>"iacutone"}, {"name"=>"panfilovdenis", "username"=>"panfilovdenis"}, {"name"=>"jameschildress", "username"=>"jameschildress"}, {"name"=>"slacker87", "username"=>"slacker87"}, {"name"=>"narogers", "username"=>"narogers"}]
