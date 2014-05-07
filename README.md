@@ -1,6 +1,7 @@
 # osrc
 Using GitHub username to see a dynamically generated progress report for their open source contributions.
 The Open Source Report Card(osrc) is an open source project developed on GitHub and licensed under the MIT License.
+http://osrc.dfm.io/
 
 ## Installation
 
