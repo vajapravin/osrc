@@ -54,3 +54,16 @@ osrc gem is build on faraday gem. It is mandatory to install
 5. Create new Pull Request
 
 Don't hesitate to write problems [vajapravin23@gmail.com]
+
+<!-- Place this tag where you want the button to render -->
+<a name="freelancer_Hireme" user_id="12049070" size="small" annotation="inline" title="Hire me! on Freelancer.com" href="https://www.freelancer.com/users/12049070.html">Ruby Freelancer</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement("script");
+po.type = "text/javascript";
+po.async = true;
+po.src = ("https:" == document.location.protocol ? "https" : "http") + "://www.freelancer.com/js/hireme/widget.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(po, s);
+})();
+</script>
